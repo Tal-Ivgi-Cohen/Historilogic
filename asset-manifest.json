@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Historilogic/static/css/main.f70a3f16.chunk.css",
+    "main.js": "/Historilogic/static/js/main.6bf163d3.chunk.js",
+    "main.js.map": "/Historilogic/static/js/main.6bf163d3.chunk.js.map",
+    "runtime-main.js": "/Historilogic/static/js/runtime-main.95d920c3.js",
+    "runtime-main.js.map": "/Historilogic/static/js/runtime-main.95d920c3.js.map",
+    "static/js/2.27d3129c.chunk.js": "/Historilogic/static/js/2.27d3129c.chunk.js",
+    "static/js/2.27d3129c.chunk.js.map": "/Historilogic/static/js/2.27d3129c.chunk.js.map",
+    "static/js/3.6f3e2b12.chunk.js": "/Historilogic/static/js/3.6f3e2b12.chunk.js",
+    "static/js/3.6f3e2b12.chunk.js.map": "/Historilogic/static/js/3.6f3e2b12.chunk.js.map",
+    "index.html": "/Historilogic/index.html",
+    "static/css/main.f70a3f16.chunk.css.map": "/Historilogic/static/css/main.f70a3f16.chunk.css.map",
+    "static/js/2.27d3129c.chunk.js.LICENSE.txt": "/Historilogic/static/js/2.27d3129c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d920c3.js",
+    "static/js/2.27d3129c.chunk.js",
+    "static/css/main.f70a3f16.chunk.css",
+    "static/js/main.6bf163d3.chunk.js"
+  ]
+}
