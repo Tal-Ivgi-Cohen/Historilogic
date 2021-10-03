@@ -6,6 +6,6 @@ export const dataService = {
 };
 
 async function query() {
-    const res = await axios.get('http://history.muffinlabs.com/date/9/30');
+    const res = await axios.get('https://history.muffinlabs.com/date/9/30');
     return res.data;
 }
